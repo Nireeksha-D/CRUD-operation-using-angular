@@ -1,0 +1,23 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+mat-toolbar{
+    background-color: rgb(13, 38, 182);
+    color: white;
+}
+mat-icon{
+    color: white;
+}
+.addProduct{
+    color: white;
+    background-color: rgb(255, 72, 0);
+    font-size: 15px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+.container{
+    margin-top: 30px;
+}
+mat-form-field{
+    width: 500px;
+}

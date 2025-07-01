@@ -1,0 +1,58 @@
+{
+  "productList": [
+    {
+      "productName": "Papaya",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 98,
+      "comment": "Not Fresh",
+      "date": "2025-06-19T18:30:00.000Z",
+      "id": "2"
+    },
+    {
+      "id": "ab56",
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Fresh fruits",
+      "date": "2025-06-30T18:30:00.000Z"
+    },
+    {
+      "id": "5543",
+      "productName": "Tomoto",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 20,
+      "comment": "Not fresh vegetables",
+      "date": "2025-06-18T18:30:00.000Z"
+    },
+    {
+      "id": "f588",
+      "productName": "Onion",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 40,
+      "comment": "onions",
+      "date": "2025-06-29T18:30:00.000Z"
+    },
+    {
+      "id": "07ad",
+      "productName": "Mobile",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 12000,
+      "comment": "Second hand mobile phone",
+      "date": "2025-06-12T18:30:00.000Z"
+    },
+    {
+      "id": "6ab4",
+      "productName": "chilly",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 200,
+      "comment": "fresh",
+      "date": "2025-06-30T18:30:00.000Z"
+    }
+  ]
+}
